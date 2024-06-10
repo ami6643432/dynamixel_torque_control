@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mick/catkin_dynamixel/devel/.private/rft_sensor_serial/setup.sh

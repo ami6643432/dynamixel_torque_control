@@ -1,0 +1,1 @@
+/home/mick/catkin_dynamixel/devel/.private/dynamixel_sdk/lib/dynamixel_sdk/packet_handler.py

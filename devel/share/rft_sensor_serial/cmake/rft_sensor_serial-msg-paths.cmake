@@ -1,0 +1,1 @@
+/home/mick/catkin_dynamixel/devel/.private/rft_sensor_serial/share/rft_sensor_serial/cmake/rft_sensor_serial-msg-paths.cmake

@@ -1,0 +1,1 @@
+/home/mick/catkin_dynamixel/devel/.private/dynamixel_workbench_msgs/share/roseus/ros/dynamixel_workbench_msgs/msg/XL.l

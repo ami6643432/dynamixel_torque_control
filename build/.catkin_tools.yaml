@@ -1,0 +1,6 @@
+devel_space: /home/mick/catkin_dynamixel/devel
+install: false
+install_space: /home/mick/catkin_dynamixel/install
+profile: default
+source_space: /home/mick/catkin_dynamixel/src
+workspace: /home/mick/catkin_dynamixel

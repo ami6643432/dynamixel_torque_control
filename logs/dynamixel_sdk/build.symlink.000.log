@@ -1,0 +1,15 @@
+Symlinking /home/mick/catkin_dynamixel/devel/lib/libdynamixel_sdk.so
+Symlinking /home/mick/catkin_dynamixel/devel/lib/python3/dist-packages/dynamixel_sdk/__init__.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/protocol2_packet_handler.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/group_sync_write.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/group_bulk_read.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/group_sync_read.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/protocol1_packet_handler.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/robotis_def.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/port_handler.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/cmake.lock
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/group_bulk_write.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/dynamixel_sdk/packet_handler.py
+Symlinking /home/mick/catkin_dynamixel/devel/lib/pkgconfig/dynamixel_sdk.pc
+Symlinking /home/mick/catkin_dynamixel/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+Symlinking /home/mick/catkin_dynamixel/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake

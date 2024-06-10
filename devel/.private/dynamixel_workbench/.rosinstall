@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mick/catkin_dynamixel/devel/.private/dynamixel_workbench/setup.sh

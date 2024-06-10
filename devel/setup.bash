@@ -1,0 +1,1 @@
+/home/mick/catkin_dynamixel/devel/.private/catkin_tools_prebuild/setup.bash
